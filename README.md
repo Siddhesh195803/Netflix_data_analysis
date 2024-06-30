@@ -17,7 +17,7 @@ Imported the cleaned data into SQL Server for further analysis.
 Conducted exploratory data analysis (EDA) to understand the data distribution and identify patterns.
 Implemented SQL queries to perform key analyses, such as genre distribution, trend analysis, and user behavior insights.
 Technologies Used
-Python: For data cleansing and initial processing using PySpark.
+Python: For data cleansing and initial processing using pandas.
 Pandas: For efficient data handling and preprocessing.
 SQL Server: For storing and querying the data.
 Jupyter Notebook: To document and showcase the analysis process.
