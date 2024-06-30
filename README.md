@@ -9,7 +9,7 @@ Performed data cleansing to handle missing values, remove duplicates, and ensure
 
 # Data Importation:
 
-Utilized PySpark to read and preprocess the data.
+Utilized Pandas to read and preprocess the data.
 Imported the cleaned data into SQL Server for further analysis.
 
 # Data Analysis:
@@ -18,6 +18,6 @@ Conducted exploratory data analysis (EDA) to understand the data distribution an
 Implemented SQL queries to perform key analyses, such as genre distribution, trend analysis, and user behavior insights.
 Technologies Used
 Python: For data cleansing and initial processing using PySpark.
-PySpark: For efficient data handling and preprocessing.
+Pandas: For efficient data handling and preprocessing.
 SQL Server: For storing and querying the data.
 Jupyter Notebook: To document and showcase the analysis process.
